@@ -37,4 +37,15 @@ html {
     padding: 0 20px 20px 20px;
     border: 5px solid black;
   }
+
+footer {
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+}
+
+.footer_div {
+    margin: 0 0;
+    background-color: black;
+}
   
